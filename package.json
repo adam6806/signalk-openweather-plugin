@@ -24,6 +24,6 @@
   "homepage": "https://github.com/inspired-technologies/signalk-openweather-plugin#readme",
   "dependencies": {
     "debug": "^4.3.4",
-    "openweather-apis": "^4.5.0"
+    "openweather-apis": "git+https://github.com/adam6806/openweather-apis.git#API-v3.0"
   }
 }
